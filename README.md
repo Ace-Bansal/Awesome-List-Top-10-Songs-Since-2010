@@ -57,7 +57,7 @@
 - [Love Yourself](https://en.wikipedia.org/wiki/Love_Yourself)
 - [Sorry](https://en.wikipedia.org/wiki/Sorry_(Justin_Bieber_song))
 - [One Dance](https://en.wikipedia.org/wiki/One_Dance)
-- [Work](https://en.wikipedia.org/wiki/Work_(Rihanna_song)
+- [Work](https://en.wikipedia.org/wiki/Work_(Rihanna_song))
 - [Stressed Out](https://en.wikipedia.org/wiki/Stressed_Out)
 
 ## 2017
